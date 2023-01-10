@@ -40,3 +40,8 @@ App built with the simple Gradio Interface
 
   python Churn_Prediction_App_with_grInterface.py
 With inbrowser = True defined, it should open a browser tab automatically. If it doesn't, type this address in your browser: https://localhost:7860/
+
+ScreenShots
+
+![image](https://user-images.githubusercontent.com/106823333/211617384-aff735d1-561f-4672-b6dc-e9cae4c56a10.png)
+
