@@ -27,8 +27,7 @@ Since I used Colab, I just had to
 !pip install gradio
 In my console and follow the process as indicated above 
 
-NB: On your local machine,
-To setup and run this project you need to have Python3 installed on your system. Then you can clone this repo. At the repo's root, use the code from below which applies:
+NB: On your local machine, you need to have Python3 installed on your system. Then you can clone this repo. At the repo's root, use the code from below which applies:
 
 Windows:
 
