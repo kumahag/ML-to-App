@@ -20,7 +20,9 @@ Recover these values in backend,
 Apply the necessary processing,
 Submit the processed values to the ML model to make the predictions,
 Process the predictions obtained and display them on the interface.
-Installation
+
+SetUp
+
 To setup and run this project you need to have Python3 installed on your system. Then you can clone this repo. At the repo's root, use the code from below which applies:
 
 Windows:
@@ -29,8 +31,9 @@ Windows:
 Linux & MacOs:
 
   python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
-NB: For MacOs users, please install Xcode if you have an issue.
-
+NB: Since I used Colab, I just had to 
+!pip install gradio
+In my console and follow the process as indicated above but if using python on your local machine,
 You can then run the app (still at the repository root):
 
 App built with Gradio Blocks
